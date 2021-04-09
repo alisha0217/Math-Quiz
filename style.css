@@ -1,0 +1,13 @@
+body
+{
+	background-image: url(maxresdefault.jpg);
+    background-size: 1435px;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
